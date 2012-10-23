@@ -1,0 +1,226 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="516D2AB1-3C28-43D9-9337-7E74ACD9DBBE/f:OOFarm.cs" caret="538" fromTop="23" />
+      <File id="516D2AB1-3C28-43D9-9337-7E74ACD9DBBE/f:Order.cs" caret="1250" fromTop="17" />
+      <File id="516D2AB1-3C28-43D9-9337-7E74ACD9DBBE/f:Quizzes.cs" caret="1533" fromTop="22" />
+      <File id="C5A3A574-D7E0-485C-870E-99EB979E9405/f:OOFarmTest.cs" caret="0" fromTop="0" />
+      <File id="C5A3A574-D7E0-485C-870E-99EB979E9405/f:OrderTest.cs" caret="498" fromTop="17" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:IDALContext.cs" caret="134" fromTop="5" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:IQueryRepository.cs" caret="103" fromTop="4" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:IRepository.cs" caret="2966" fromTop="84" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:IUnitOfWork.cs" caret="210" fromTop="10" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:QueryRepository.cs" caret="179" fromTop="5" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/f:Web.config" caret="408" fromTop="6" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:Repository.cs" caret="844" fromTop="21" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:DB.cs" caret="295" fromTop="13" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IQueryService.cs" caret="397" fromTop="13" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:DALContext.cs" caret="450" fromTop="17" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/f:Global.asax.cs" caret="1611" fromTop="39" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:MyUnityControllerFactory.cs" caret="1008" fromTop="22" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:Query.cs" caret="572" fromTop="22" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="4828" fromTop="81" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="779" fromTop="11" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:QueryService.cs" caret="147" fromTop="6" />
+      <File id="C5A3A574-D7E0-485C-870E-99EB979E9405/f:QuizzesTest.cs" caret="4756" fromTop="13" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IGoogleSearch.cs" caret="177" fromTop="7" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:GoogleSearch.cs" caret="320" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="2024" fromTop="20" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="4143" fromTop="13" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IGoogleSearch.cs" caret="0" fromTop="0" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IGoogleSearch.cs" caret="177" fromTop="7" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="981" fromTop="21" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="453" fromTop="12" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/f:Global.asax.cs" caret="1999" fromTop="29" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:GoogleSearch.cs" caret="172" fromTop="6" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:GoogleSearch.cs" caret="317" fromTop="12" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:DB.cs" caret="269" fromTop="10" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="625" fromTop="6" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="737" fromTop="16" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:QueryService.cs" caret="845" fromTop="21" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:Query.cs" caret="567" fromTop="34" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:Query.cs" caret="563" fromTop="22" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IQueryService.cs" caret="397" fromTop="13" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:QueryService.cs" caret="673" fromTop="5" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:QueryService.cs" caret="843" fromTop="11" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="3560" fromTop="21" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="940" fromTop="19" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Controllers/f:HomeController.cs" caret="600" fromTop="7" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/f:Global.asax.cs" caret="1611" fromTop="24" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:DALContext.cs" caret="464" fromTop="18" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Classes/f:IQueryService.cs" caret="348" fromTop="9" />
+      <File id="063BFBF2-CF1F-4485-932F-01D74B5A38FC/f:Query.cs" caret="493" fromTop="16" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="2967" fromTop="8" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="4772" fromTop="18" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="4513" fromTop="16" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="4822" fromTop="25" />
+      <File id="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1/d:Views/d:Home/f:Index.cshtml" caret="3654" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.8\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="24" />
+      <Item value="public" priority="21" />
+      <Item value="string" priority="9" />
+      <Item value="NotImplementedException`0" priority="0" />
+      <Item value="QuizzesSolutions`0" priority="0" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="qs" priority="5" />
+      <Item value="int" priority="10" />
+      <Item value="var" priority="20" />
+      <Item value="CollectionAssert`0" priority="2" />
+      <Item value="table5" priority="0" />
+      <Item value="IEnumerable" priority="4" />
+      <Item value="ICollection" priority="0" />
+      <Item value="n" priority="0" />
+      <Item value="Func" priority="0" />
+      <Item value="throw" priority="4" />
+      <Item value="NotImplementedException" priority="3" />
+      <Item value="interface" priority="2" />
+      <Item value="Farm`0" priority="0" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="OOFarm`0" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="Decimal`0" priority="2" />
+      <Item value="void" priority="3" />
+      <Item value="Order`0" priority="7" />
+      <Item value="Guid`0" priority="4" />
+      <Item value="if" priority="2" />
+      <Item value="this" priority="10" />
+      <Item value="l" priority="3" />
+      <Item value="foreach" priority="1" />
+      <Item value="in" priority="1" />
+      <Item value="class" priority="1" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="ValidationException`0" priority="1" />
+      <Item value="order" priority="8" />
+      <Item value="OrderController`0" priority="1" />
+      <Item value="IOrderRepository`0" priority="0" />
+      <Item value="_repo" priority="2" />
+      <Item value="repo" priority="0" />
+      <Item value="decimal" priority="1" />
+      <Item value="linesSum" priority="0" />
+      <Item value="discount" priority="1" />
+      <Item value="orderId" priority="3" />
+      <Item value="Order" priority="0" />
+      <Item value="o" priority="0" />
+      <Item value="orderController" priority="1" />
+      <Item value="originalOrder" priority="0" />
+      <Item value="originalTotal" priority="0" />
+      <Item value="modifiedTotal" priority="0" />
+      <Item value="ExpectedException" priority="1" />
+      <Item value="OrderLine`0" priority="1" />
+      <Item value="TestMethod" priority="0" />
+      <Item value="student" priority="0" />
+      <Item value="score" priority="0" />
+      <Item value="Exam`0" priority="0" />
+      <Item value="examStr" priority="0" />
+      <Item value="ret" priority="3" />
+      <Item value="strInput" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="ArgumentException`0" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="Json`0" priority="1" />
+      <Item value="HomeController`0" priority="0" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="using" priority="0" />
+      <Item value="ctx" priority="0" />
+      <Item value="Query`0" priority="1" />
+      <Item value="QueryText" priority="0" />
+      <Item value="queryText" priority="0" />
+      <Item value="Time" priority="0" />
+      <Item value="time" priority="0" />
+      <Item value="IGoogleSearch`0" priority="0" />
+      <Item value="queryService" priority="0" />
+      <Item value="QueryResults" priority="0" />
+      <Item value="results" priority="0" />
+      <Item value="dbContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.QuizzesSolutions">
+      <Item value="ReverseString`0" priority="0" />
+      <Item value="Fib`0" priority="0" />
+      <Item value="MultiplicationTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.CollectionAssert">
+      <Item value="AreEqual`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.OOFarm">
+      <Item value="TalkEverybody`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.Order">
+      <Item value="Lines" priority="0" />
+      <Item value="lin" priority="0" />
+      <Item value="TotalPrice" priority="6" />
+      <Item value="Validate`0" priority="1" />
+      <Item value="Discount" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Sum`1" priority="1" />
+      <Item value="Select`2" priority="0" />
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.OrderLine">
+      <Item value="Qty" priority="1" />
+      <Item value="UnitPrice" priority="1" />
+      <Item value="LinePrice" priority="1" />
+      <Item value="Validate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.IOrderRepository">
+      <Item value="CreateOrder`0" priority="0" />
+      <Item value="ReadOrder`0" priority="1" />
+      <Item value="UpdateOrder`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.OrderController">
+      <Item value="ApplyDiscount`0" priority="0" />
+      <Item value="GetById`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.Exam">
+      <Item value="Student" priority="1" />
+      <Item value="Score" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRquizzes.Quizzes">
+      <Item value="OrderByAvgScoresDescending`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRsearch.Models.QueriesContext">
+      <Item value="Queries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRsearch.DAL.IDALContext">
+      <Item value="Queries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRsearch.web.Classes.IQueryService">
+      <Item value="GetQueries`0" priority="0" />
+      <Item value="SaveQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="UtcNow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTRsearch.DAL.DB">
+      <Item value="SaveChanges`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
