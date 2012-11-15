@@ -17,7 +17,10 @@ namespace NTRquizzes.Tests
         public void TestDiscountAppliedAndSavedInRepository()
         {
             var orderId = Guid.NewGuid();
+
+            // HINT: Some dependency missing here?
             var orderController = new OrderController(null);
+            
             var originalTotal = orderController.GetById(orderId).TotalPrice;
             var modifiedTotal = orderController.ApplyDiscount(orderId, 10m).TotalPrice;
             Assert.AreEqual(originalTotal*0.9m, modifiedTotal);
@@ -26,7 +29,10 @@ namespace NTRquizzes.Tests
         [TestMethod]
         public void TestIncorrectOrderTotalThrowsValidationExceptionOnNew()
         {
-            throw new NotImplementedException();
+            var orderController = new OrderController(null);
+            var myOrder = new Order {TotalPrice = 100};
+            orderController.New(myOrder);
+            // HINT: Assert missing! Maybe is there an attribute to expect an exception?
         }
 
         [TestMethod]
