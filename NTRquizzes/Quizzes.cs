@@ -36,6 +36,7 @@ namespace NTRquizzes
 
         public int[] GetOddNumbers(int n)
         {
+            // HINT: This method must be implemented with a call this.GetSatisfyingNumbers
             throw new NotImplementedException();
         }
 
