@@ -1,16 +1,16 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTRquizzes", "NTRquizzes\NTRquizzes.csproj", "{516D2AB1-3C28-43D9-9337-7E74ACD9DBBE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTRquizzes.Tests", "NTRquizzes.Tests\NTRquizzes.Tests.csproj", "{C5A3A574-D7E0-485C-870E-99EB979E9405}"
-EndProject
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0209E300-4BEA-415A-8D3B-B3AE8FF7D982}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
 		NTRquizzes.vsmdi = NTRquizzes.vsmdi
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTRquizzes", "NTRquizzes\NTRquizzes.csproj", "{516D2AB1-3C28-43D9-9337-7E74ACD9DBBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTRquizzes.Tests", "NTRquizzes.Tests\NTRquizzes.Tests.csproj", "{C5A3A574-D7E0-485C-870E-99EB979E9405}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTRsearch.web", "NTRsearch.web\NTRsearch.web.csproj", "{A0E3F17E-77E8-49C9-A03D-88FB70EF63D1}"
 EndProject

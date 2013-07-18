@@ -43,13 +43,13 @@
 <h3>Hints:</h3>
 <ul>
     <li>
-    You will need to modify the HomeController class and use QueryService.SaveQuery method.
+    You'll have to modify the HomeController class and use QueryService.SaveQuery method.
     </li>
     <li>
-    By default, the database used is .\SQLEXPRESS\NTRsearchDB. You can connect to it with the SQL Server Management Studio or the Database explorer in VS2010 through integrated authentication.
+    By default, the database used is .\localhost\NTRsearchDB (maybe you have to uncomment something ;P). You can connect to it with the SQL Server Management Studio or the Database explorer in VS2010 with SQL Server Authentication user:sa password:ntrglobal
     </li>
     <li>
-    If you get problems because the database or any table already existed feel free to remove it so EF automatically re-creates it. We don't care about migrations or database upgrades.
+    Feel free to remove the existing database if tou run into problems while changing the schema since EF automatically re-creates it as needed. We don't care about migrations or database upgrades.
     </li>
 </ul>
 
