@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace NTRquizzes.Tests
+namespace AsgQuizzes.Tests
 {
     /// <summary>
     /// HINT: Maybe you should use some kind of object double library (Moq? RhinoMocks?)

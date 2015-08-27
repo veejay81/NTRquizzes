@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace NTRquizzes
+namespace AsgQuizzes
 {
     /// <summary>
     /// HINT: Implement this methods to make all tests in QuizzesTest.cs pass

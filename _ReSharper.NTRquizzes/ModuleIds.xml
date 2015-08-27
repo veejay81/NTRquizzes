@@ -1,7 +1,0 @@
-<Modules>
-  <Module PersistentId="516D2AB1-3C28-43D9-9337-7E74ACD9DBBE" ModuleId="NTRquizzes" />
-  <Module PersistentId="C5A3A574-D7E0-485C-870E-99EB979E9405" ModuleId="NTRquizzes.Tests" />
-  <Module PersistentId="063BFBF2-CF1F-4485-932F-01D74B5A38FC" ModuleId="NTRsearch.DAL" />
-  <Module PersistentId="22AC6779-1B23-4DEF-8A36-715478CF3F1F" ModuleId="NTRsearch.Tests" />
-  <Module PersistentId="A0E3F17E-77E8-49C9-A03D-88FB70EF63D1" ModuleId="NTRsearch.web" />
-</Modules>

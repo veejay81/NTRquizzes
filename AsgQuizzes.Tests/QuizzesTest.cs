@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace NTRquizzes.Tests
+namespace AsgQuizzes.Tests
 {
     /// <summary>
     /// HINT: This class MUST NOT be modified. You don't have to write anything here.

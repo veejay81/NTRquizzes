@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace NTRquizzes
+namespace AsgQuizzes
 {
     /// <summary>
     /// HINT: You are expected to write classes that implement this interface
