@@ -19,6 +19,7 @@ namespace AsgSearch.DAL
 
         public int SaveChanges()
         {
+            // HINT: Implementation is a one-liner! :)
             throw new NotImplementedException();
         }
 

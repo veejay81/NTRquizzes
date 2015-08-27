@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AsgSearch.DAL;
+using AsgSearch.web.Classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -9,21 +11,28 @@ namespace AsgSearch.web.Controllers
 {
     public class PastSearchesController : ApiController
     {
-        public IEnumerable<string> Get()
+        IQueryService _svc;
+        public PastSearchesController(IQueryService svc)
+        {
+            _svc = svc;
+        }
+
+        public IEnumerable<Query> Get()
+        {
+            return _svc.GetQueries();
+        }
+
+        public Query Get(int id)
         {
             return null;
         }
 
-        public string Get(int id)
+        public void Post([FromBody]Query value)
         {
-            return null;
+            _svc.SaveQuery(value.QueryText, value.Time);
         }
 
-        public void Post([FromBody]string value)
-        {
-        }
-
-        public void Put(int id, [FromBody]string value)
+        public void Put(int id, [FromBody]Query value)
         {
         }
 
