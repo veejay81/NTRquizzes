@@ -5,7 +5,7 @@ using System.Web;
 
 namespace AsgSearch.web.Classes
 {
-    public class GoogleSearch : IGoogleSearch
+    public class StackExchangeSearch : IStackExchangeSearch
     {
         public IEnumerable<string> Search(string strText)
         {

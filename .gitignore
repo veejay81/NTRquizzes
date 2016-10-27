@@ -4,6 +4,7 @@ obj
 packages
 .vs
 *.suo
+.JustCode
 
 # mstest test results
 TestResults

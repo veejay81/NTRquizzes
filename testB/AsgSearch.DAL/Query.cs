@@ -12,8 +12,7 @@ namespace AsgSearch.DAL
         public virtual string QueryText { get; set; }
         public virtual DateTime Time { get; set; }
 
-        // HINT: For step 2 you'll need  to uncomment this
-        //public virtual string FirstResult { get; set; }
+        // HINT: You'll have to add some fields here... up to you!
 
     }
     

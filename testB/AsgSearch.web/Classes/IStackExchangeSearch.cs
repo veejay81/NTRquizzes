@@ -2,7 +2,7 @@
 
 namespace AsgSearch.web.Classes
 {
-    public interface IGoogleSearch
+    public interface IStackExchangeSearch
     {
         IEnumerable<string> Search(string strText);
     }

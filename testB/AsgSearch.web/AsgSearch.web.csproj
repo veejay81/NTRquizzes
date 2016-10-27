@@ -158,8 +158,8 @@
     <Compile Include="App_Start\UnityConfig.cs" />
     <Compile Include="App_Start\UnityMvcActivator.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Classes\GoogleSearch.cs" />
-    <Compile Include="Classes\IGoogleSearch.cs" />
+    <Compile Include="Classes\StackExchangeSearch.cs" />
+    <Compile Include="Classes\IStackExchangeSearch.cs" />
     <Compile Include="Classes\IQueryService.cs" />
     <Compile Include="Classes\MyUnityControllerFactory.cs" />
     <Compile Include="Classes\QueryService.cs" />
