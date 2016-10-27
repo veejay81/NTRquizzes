@@ -1,4 +1,0 @@
-NTRquizzes
-==========
-
-NTRquizzes
