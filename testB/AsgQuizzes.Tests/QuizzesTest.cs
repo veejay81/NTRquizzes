@@ -97,7 +97,7 @@ namespace AsgQuizzes.Tests
         [TestMethod]
         public void GenerateBoard1()
         {
-            var strInput = " o x    o";
+            var strInput = " o x    x";
             var qs = new Quizzes();
             Assert.AreEqual(@"
    | O |   
