@@ -73,10 +73,10 @@ namespace AsgQuizzes.Tests
             var exams =
                 new[]
                     {
-                        new Exam("anna", 8.0m), new Exam("anna", 6.0m), new Exam("anna", 8.0m),
+                        new Exam("anna", 9.5m), new Exam("anna", 7.0m), new Exam("anna", 8.0m),
                         new Exam("marcel", 7.0m), new Exam("marcel", 5.0m), new Exam("marcel", 8.0m),
-                        new Exam("lluis", 9.0m), new Exam("lluis", 7.0m), new Exam("lluis", 8.0m),
-                        new Exam("ari", 6.0m), new Exam("ari", 4.0m), new Exam("ari", 8.0m),
+                        new Exam("lluis", 9.0m), new Exam("lluis", 9.0m), new Exam("lluis", 9.0m),
+                        new Exam("ari", 3.0m), new Exam("ari", 4.0m), new Exam("ari", 5.0m),
                     };
             var qs = new Quizzes();
             CollectionAssert.AreEqual(new[] {"lluis", "anna", "marcel", "ari"}

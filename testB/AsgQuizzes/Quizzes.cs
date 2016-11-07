@@ -15,11 +15,6 @@ namespace AsgQuizzes
             throw new NotImplementedException();
         }
 
-        public int SumString(string str)
-        {
-            throw new NotImplementedException();
-        }
-
         public int[] GetSatisfyingNumbers(int limit, Func<int,bool> filter)
         {
             throw new NotImplementedException();
