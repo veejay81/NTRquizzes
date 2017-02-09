@@ -137,7 +137,7 @@ namespace AsgQuizzes.Tests
         [ExpectedException(typeof(ArgumentException))]
         public void ParseNumberErrorTest()
         {
-            // HINT: Look at the last digit. It may look like a 3 but it is not well formed!
+            // HINT:    
             var strInput =
                 @"
     _  _ 
